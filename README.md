@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ersachin99&label=Profile%20views&color=0e75b6&style=flat" alt="ersachin99" /> </p>
 
-- 🔭 I’m currently working on **Noc Engineer**
+- 🔭 I’m currently working on **Network Moniroting And Analytics**
 
-- 🌱 I’m currently learning **Data Science, Big Data, Pyspark, AWS. Etc.**
+- 🌱 I’m currently Looking for Opportunities in  **Data Scientist, AI/ML , Data Analytics, Business Analytics and related role.**
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
