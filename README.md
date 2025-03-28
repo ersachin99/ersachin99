@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ersachin99&label=Profile%20views&color=0e75b6&style=flat" alt="ersachin99" /> </p>
 
-- 🔭 I’m currently working on **Network Analytics**
+- 🔭 I’m currently working on **Network Analyst**
 
 - 🌱 I’m currently Looking for Opportunities in  **Data Scientist, AI/ML , Data Analytics, Business Analytics and related role.**
 
